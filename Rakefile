@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{Convert between css and prawn styles}
     gem.description = %Q{Handle conversion from css to prawn styles}
     gem.email = "kmandrup@gmail.com"
-    gem.homepage = "http://github.com/kristianmandrup/css_prawn_styles"
+    gem.homepage = "http://github.com/kristianmandrup/style_converter"
     gem.authors = ["Kristian Mandrup"]
     # gem.add_development_dependency "rspec", ">= 1.2.9" 
     gem.add_dependency "kmandrup-colorist",  ">=0.1.5"    
